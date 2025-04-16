@@ -52,7 +52,7 @@ In conclusion, **ZU X ORI** treats *Romeo and Juliet* not as mere fiction but as
 ---
 **Sources**
 
-- <a id="source1">1.</a> Dante Alighieri, *Purgatorio*, Canto VI, lines 106–111. (Digital Dante Project translation and notes) [source](https://dantecomedy.com/welcome/purgatorio/purgatorio-canto-6/#:~:text=so%20greedy%20for%20wealth,Perhaps%C2%A0%E2%80%A6%20Continue%20reading)</span>
+- <a id="source1"></a> Dante Alighieri, *Purgatorio*, Canto VI, lines 106–111. (Digital Dante Project translation and notes) [[1]](https://dantecomedy.com/welcome/purgatorio/purgatorio-canto-6/#:~:text=so%20greedy%20for%20wealth,Perhaps%C2%A0%E2%80%A6%20Continue%20reading)</span>
 
 - <a id="source2">2.</a> Secrets of Inferno – “Dante and Shakespeare: A Tale of Montagues and Capulets” (Dan Burstein, 2013) [source](https://secretsofinferno.wordpress.com/2013/11/17/dante-and-shakespeare-a-tale-of-montagues-and-capulets/#:~:text=Some%20scholars%20believe%20that%20the,the%20Montagues%20and%20the%20Capulets)</span>
 - <a id="source3">3.</a> Luigi da Porto, *Historia novellamente ritrovata di due nobili amanti* (1524, pub.1531); see Introduction by Thomas Roscoe (trans.) [source](https://www.elfinspell.com/RoscoeLuigiDaPorto.html#:~:text=Cappelletti%2C%20that%20of%20the%20other,would%20appear%2C%20however%2C%20to%20have)</span>
