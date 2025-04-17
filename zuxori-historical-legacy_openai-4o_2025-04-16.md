@@ -1,4 +1,6 @@
 # ZU X ORI: Reincarnating Romeo and Juliet’s Historical Legacy
+###### OpenAI 4o Deep Research  
+###### April 16 2025 
 
 ## Dante’s Feuding Families: The Montecchi and Capuleti in History
 
