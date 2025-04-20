@@ -1,3 +1,12 @@
+<!--
+title: "Beyond Linear Time: How Scene 12.42 Solves ZU X ORI’s “Memory‑Contains‑the‑Future” Paradox"
+authors: ["OpenAI o3 Deep Research"]
+date: "2025-04-17"
+tags: ["memory", "time", "paradox", "scene 12.42", "zu x ori", "zuxori", "openai", "research"]
+summary: "Unpacks the narrative mechanics that allow a past‑life memory to contain future knowledge, revealing the story’s cyclical causality and thematic resonance."
+-->
+
+
 # Beyond Linear Time: How Scene 12.42 Solves ZU X ORI’s “Memory-Contains-the-Future” Paradox
 ###### OpenAI o3 Deep Research  
 ###### April 17 2025 
