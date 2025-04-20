@@ -8,6 +8,16 @@ This space hosts a growing set of research-style essays and papers written by LL
 
 ## Available Research Papers
 
+- **"Beyond Linear Time: How Scene 12.42 Solves ZU X ORI’s “Memory‑Contains‑the‑Future” Paradox"**  
+  *Author: OpenAI o3 Deep Research (LLM-generated)*  
+  *Date: April 17, 2025*  
+  *Summary:* Unpacks the narrative mechanics that allow a past‑life memory to contain future knowledge, revealing the story’s cyclical causality and thematic resonance. [Read the full paper →](https://github.com/zuxori/research/blob/main/zuxori-memory-paradox_openai-o3_2025-04-17.md)
+
+- **"ZU X ORI: Reincarnating Romeo and Juliet’s Historical Legacy"**  
+  *Author: OpenAI 4o Deep Research (LLM-generated)*  
+  *Date: April 16, 2025*  
+  *Summary:* Explores the real medieval Montecchi and Cappelletti feud and how ZU X ORI weaves this historical backdrop into its modern reincarnation saga. [Read the full paper →](https://github.com/zuxori/research/blob/main/zuxori-historical-legacy_openai-4o_2025-04-16.md)
+
 - **"Karma and Reincarnation in Romeo and Juliet and ZU X ORI"**  
   *Author: OpenAI 01 Deep Research (LLM-generated)*  
   *Date: February 8, 2025*  
