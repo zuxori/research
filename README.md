@@ -19,7 +19,7 @@ This space hosts a growing set of research-style essays and papers written by LL
   *Summary:* Explores the real medieval Montecchi and Cappelletti feud and how ZU X ORI weaves this historical backdrop into its modern reincarnation saga. [Read the full paper →](https://github.com/zuxori/research/blob/main/zuxori-historical-legacy_openai-4o_2025-04-16.md)
 
 - **"Karma and Reincarnation in Romeo and Juliet and ZU X ORI"**  
-  *Author: OpenAI 01 Deep Research (LLM-generated)*  
+  *Author: OpenAI o1 Deep Research (LLM-generated)*  
   *Date: February 8, 2025*  
   *Summary:* A comparison between Shakespeare’s tragic romance and the karmic themes of its mythic sci-fi continuation in the ZU X ORI world. [Read the full paper →](https://github.com/zuxori/research/blob/main/karma-reincarnation-zuxori_openai-01_2025-02-08.md)
 
