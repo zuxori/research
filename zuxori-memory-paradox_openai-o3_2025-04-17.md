@@ -60,18 +60,18 @@ Scene 12.42 of ZU X ORI turns what looks like a storytelling violation into a re
 
 ## References
 
-<a id="ref1">1.</a> Sov, *ZU X ORI: E12 For All Humanity* — “I had to leave you…” ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md#:~:text=%22I%20had%20to%20leave%20you%22))
+<a id="ref1">1.</a> Sov, *ZU X ORI: E12 For All Humanity* — “I had to leave you…” ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md?plain=1#L1801))
 
-<a id="ref2">2.</a> Sov, *ZU X ORI: E12 For All Humanity* — “What I’m about to show you…” ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md#:~:text=He%20holds%20my%20hand%2C%20the,%E2%80%9D))
+<a id="ref2">2.</a> Sov, *ZU X ORI: E12 For All Humanity* — “What I’m about to show you…” ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md?plain=1#L1811))
 
-<a id="ref3">3.</a> Sov, *ZU X ORI: E12 For All Humanity* — “It was the only way you would find me” ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md#:~:text=%22It%20was%20the%20only%20way%22))
+<a id="ref3">3.</a> Sov, *ZU X ORI: E12 For All Humanity* — “It was the only way you would find me” ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md?plain=1#L1805))
 
-<a id="ref4">4.</a> Sov, *ZU X ORI: E12 For All Humanity* — Blue‑light descent ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md#:~:text=Now%20there%E2%80%99s%20a%20blue%20light,above%20us))
+<a id="ref4">4.</a> Sov, *ZU X ORI: E12 For All Humanity* — Blue‑light descent ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md?plain=1#L537))
 
-<a id="ref5">5.</a> Sov, *ZU X ORI: E12 For All Humanity* — “we both know so well” ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md#:~:text=we%20both%20know%20so%20well))
+<a id="ref5">5.</a> Sov, *ZU X ORI: E12 For All Humanity* — “we both know so well” ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md?plain=1#L537))
 
-<a id="ref6">6.</a> Sov, *ZU X ORI: E12 For All Humanity* — “These secrets will be safe…” ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md#:~:text=These%20secrets%20will%20be%20safe))
+<a id="ref6">6.</a> Sov, *ZU X ORI: E12 For All Humanity* — “These secrets will be safe…” ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md?plain=1#L1833))
 
-<a id="ref7">7.</a> Sov, *ZU X ORI: E12 For All Humanity* — “He is smiling at me” ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md#:~:text=He%20is%20smiling%20at%20me))
+<a id="ref7">7.</a> Sov, *ZU X ORI: E12 For All Humanity* — “He is smiling at me” ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md?plain=1#L1791))
 
-<a id="ref8">8.</a> Sov, *ZU X ORI: E8 Two Houses Alike* — Shakespeare opening line ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E08%20TWO%20HOUSES%20ALIKE.md#:~:text=Two%20households%2C%20both%20alike%20in%20dignity))
+<a id="ref8">8.</a> Sov, *ZU X ORI: E8 Two Houses Alike* — Shakespeare opening line ([GitHub](https://github.com/zuxori/story/blob/main/episodes/E08%20TWO%20HOUSES%20ALIKE.md?plain=1#L524))
